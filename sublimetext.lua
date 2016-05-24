@@ -1,5 +1,4 @@
-scriptId = 'com.jimcha.scripts.sublime_text'  
-scriptTitle = "Sublime Text Connector"  
+--credentials missing
 scriptDetailsUrl = "https://market.myo.com/app/55bbd712e4b0a4d28fe2a279"
 
 lastpose = "rest"
