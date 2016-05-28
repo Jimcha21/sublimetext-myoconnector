@@ -8,3 +8,6 @@ The connector's code is written in Lua language.
 # Requirements
 * Myo Connect : Link https://www.myo.com/start
 * Windows or Mac OS
+
+# Licence
+ Apache 2.0
