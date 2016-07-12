@@ -253,10 +253,7 @@ end
 function onForegroundWindowChange( app, title )
 --myo.debug("onForegroundWindowChange: " .. app .. ", " .. title)
 	
-    if app == "sublime_text.exe" and platform == "Windows" then
-		myo.vibrate("short")
-		return true
-	elseif app == "com.sublimetext.2" and platform == "MacOS" then
+    if (app == "sublime_text.exe" and platform == "Windows") or (app == "com.sublimetext.2" and platform == "MacOS") then
 		myo.vibrate("short") -- coming soon
 		return true
 	else return false
