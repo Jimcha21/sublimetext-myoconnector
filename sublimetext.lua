@@ -22,7 +22,7 @@ function SidebarActions:showSidebar()
     end
 	--Soon on Mac OS
 end
-
+aa
 function SidebarActions:hideSidebar()
 	-- body
 	if platform == "Windows"  then
