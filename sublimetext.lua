@@ -1,6 +1,6 @@
 --credentials missing
 scriptDetailsUrl = "https://market.myo.com/app/55bbd712e4b0a4d28fe2a279"
-
+--gello
 lastpose = "rest"
 SidebarActions  = {}
 
