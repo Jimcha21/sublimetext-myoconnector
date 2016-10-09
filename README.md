@@ -14,4 +14,4 @@ The connector's code is written in Lua language.
 # Licence
  Apache 2.0
 
-                                                    <img src="https://uwaterloo.ca/mechanical-mechatronics-engineering/sites/ca.mechanical-mechatronics-engineering/files/uploads/images/thamliclabs.png" height="200" >
+<img src="https://uwaterloo.ca/mechanical-mechatronics-engineering/sites/ca.mechanical-mechatronics-engineering/files/uploads/images/thamliclabs.png" height="200" align=center >
