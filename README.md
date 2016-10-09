@@ -1,5 +1,5 @@
 # sublimetext_myoconnector
-The Sublime Text connector for Thalmic Myo armband.     <img src="https://uwaterloo.ca/mechanical-mechatronics-engineering/sites/ca.mechanical-mechatronics-engineering/files/uploads/images/thamliclabs.png" width="200">
+The Sublime Text connector for Thalmic Myo armband.             <img src="https://uwaterloo.ca/mechanical-mechatronics-engineering/sites/ca.mechanical-mechatronics-engineering/files/uploads/images/thamliclabs.png" width="400">
 
 App Link : https://market.myo.com/app/55bbd712e4b0a4d28fe2a279/sublimetext-connector
 
